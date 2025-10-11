@@ -319,3 +319,4 @@ header {
     border-radius: 10px;
     text-transform: uppercase;
 }
+header{position: sticky; top: 0;background:}
